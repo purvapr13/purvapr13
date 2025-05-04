@@ -11,7 +11,7 @@
 - 🔭 Currently working on projects involving **LLMs**, **prompt engineering**, and **MLOps**
 - ☁️ Cloud-native practitioner with hands-on in **AWS**, **Docker**, **Kubernetes**
 - 🧰 Experienced with deploying and scaling ML models in **production environments**
-- 📚 Lifelong learner exploring cutting-edge tools and frameworks in AI/ML
+- 📚 A Learner exploring cutting-edge tools and frameworks in AI/ML
 
 ---
 
