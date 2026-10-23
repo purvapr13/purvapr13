@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Purva P
 
 🔬 Lead AI Engineer | NLP Enthusiast | Gen AI Explorer  
-🚀 9+ years of experience delivering intelligent solutions using Python, Machine Learning, and Cloud technologies.
+🚀 11+ years of experience delivering intelligent solutions using Python, Machine Learning, and Cloud technologies.
 
 ---
 
